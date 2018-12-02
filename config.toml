@@ -51,8 +51,8 @@ enableGitInfo = false
   # AUTHOR SETUP
 
   # Your details.
-  name = "Lena Smith"
-  role = "Professor of Artificial Intelligence"
+  name = "Haoran Chen"
+  role = "Graduate Research Assistant"
 
   # Organizations/Affiliations.
   #   Separate multiple entries with a comma, using the form: `[ {name="Org1", url=""}, {name="Org2", url=""} ]`.
@@ -62,10 +62,10 @@ enableGitInfo = false
   avatar = "portrait.jpg"  # Specify an avatar image (in `static/img/` folder) or delete value to disable avatar.
 
   # Details for the Contact Widget
-  email = "test@example.org"
-  address = "Building 1 Room 1, Stanford University, California, 90210, USA"
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "888 888 88 88"
+  email = "hrchen@tamu.edu"
+  address = ""
+#  office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  phone = "(979)-446-7880"
   skype = "echo123"
   telegram = ""
   keybase = ""  # Your keybase.io username.
