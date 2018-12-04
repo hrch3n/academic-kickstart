@@ -11,8 +11,8 @@ weight = 5
 [interests]
   interests = [
     "Computational Modeling",
-    "Cancer Systems Biology",
     "Artificial and Biological Intelligence"
+    "Cancer Systems Biology",   
   ]
 
 # List your qualifications (such as academic degrees).
@@ -32,9 +32,9 @@ weight = 5
 
 I received my M.S. in Electrical Engineering from the Texas A&M University this Auguest. I am currently looking for a Ph.D. position in Computational Biology. 
 
-During my master's program, I had been a graduate Research Assistant at [Genetic Signaling Processing lab](https://gsp.tamu.edu/) for two years. My research mentor was Dr. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html). I have studied and developed: (a) novel algorithms for protein complex modeling and docking based on normal mode analysis, (b) a framework to investigate how cancer propagates mutational effects through Protein-Protein Interaction networks and (c) machine learning algorithms and dynamic Bayesian network which predict clinical outcomes in [DREAM](http://dreamchallenges.org/) and [CAGI](https://genomeinterpretation.org/) challenges.
+During my master's program, I had been a graduate Research Assistant at [Genetic Signaling Processing lab](https://gsp.tamu.edu/) for two years. My research mentor was Dr. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html). I have studied and developed: (A) novel algorithms for protein complex modeling and docking based on normal mode analysis, (B) a framework to investigate how cancer propagates mutational effects through Protein-Protein Interaction networks and (C) machine learning algorithms and dynamic Bayesian network which predict clinical outcomes in [DREAM](http://dreamchallenges.org/) and [CAGI](https://genomeinterpretation.org/) challenges.
 
 My research interests lie in designing computational models to decipher biological mechanisms in complex genetic diseases and explore novel clinical treatments.
 
-Download my [CV](cv/CV.pdf) here.
+Download my CV [here](cv/CV.pdf).
 
