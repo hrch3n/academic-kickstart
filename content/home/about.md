@@ -12,7 +12,7 @@ weight = 5
   interests = [
     "Computational Modeling",
     "Artificial and Biological Intelligence"
-    "Cancer Systems Biology",   
+    "Cancer Systems Biology"   
   ]
 
 # List your qualifications (such as academic degrees).
