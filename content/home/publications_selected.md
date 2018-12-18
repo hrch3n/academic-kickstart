@@ -32,3 +32,9 @@ list_format = 1
 publication_type = "-1"
 +++
 
+Karimi, M., Sun, Y., Cao, Y., Chen, H., Moronfoye, O., & Shen, Y. (2018). Predicting missense mutational effects on protein functions and cancer pathogenicity. Submitted
+
+Sun, Y., Chen, H., & Shen Y. (2018) PredPro: Predicting Protein conformational change and assessing rigidity assumption. Manuscript in preparation.
+
+Chen, H., Shen Y. (2018). Interpreting system-level cancer mechanisms through machine learning. Manuscript in preparation.
+
