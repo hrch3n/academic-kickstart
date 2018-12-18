@@ -41,7 +41,7 @@ Chen, H., Sun, Y., & Shen, Y. (2017). [Predicting protein conformational changes
 
 Knijnenburg, T. A., ..., Shen, Y., Karimi, M., Chen, H. ... (2018). [Genomic and molecular landscape of DNA damage repair deficiency across The Cancer Genome Atlas](https://www.ncbi.nlm.nih.gov/pubmed/29617664). Cell Reports, 23(1), 239.
 
-Menden, M. P., ..., AstraZeneca-Sanger Drug Combination DREAM Consorti, ... (2018). A cancer pharmacogenomic screen powering crowd-sourced advancement of drug combination prediction(https://www.biorxiv.org/content/early/2018/02/13/200451). bioRxiv, 200451.
+Menden, M. P., ..., AstraZeneca-Sanger Drug Combination DREAM Consorti, ... (2018). [A cancer pharmacogenomic screen powering crowd-sourced advancement of drug combination prediction](https://www.biorxiv.org/content/early/2018/02/13/200451). bioRxiv, 200451.
 
 Chen, H., Hu, Q. (2014) Impact of thermal resistivity value of materials on calculation for conductor temperature of 10 kV three-core cable. Guangdong Electric Power, 27(4) 86-90.
 
