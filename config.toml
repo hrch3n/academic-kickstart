@@ -64,8 +64,8 @@ enableGitInfo = false
   # Details for the Contact Widget
   email = "hrchen@tamu.edu"
   # address = ""
-  office_hours = "Monday 10:00 to 13:00 or email for appointment"
-  phone = "(979)-446-7880"
+  # office_hours = "Monday 10:00 to 13:00 or email for appointment"
+  # phone = "(979)-446-7880"
   # skype = "echo123"
   # telegram = ""
   # keybase = ""  # Your keybase.io username.
