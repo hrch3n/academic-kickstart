@@ -32,7 +32,7 @@ weight = 5
 
 # About Me
 
-I received my M.S. in Electrical Engineering from the Texas A&M University this Auguest. I am currently looking for a Ph.D. position in Computational Biology. 
+I received my M.S. in Electrical Engineering from the Texas A&M University this Auguest. I am currently looking for a Ph.D. position in Computational Biology/Bioinformatics. 
 
 
 During my master's program, I had been a graduate Research Assistant at [Genetic Signaling Processing lab](https://gsp.tamu.edu/) for two years. My research mentor was Dr. [Yang Shen](https://engineering.tamu.edu/electrical/profiles/shen-yang.html). I have studied and developed: (1) novel algorithms for protein complex modeling and docking based on normal mode analysis, (2) a framework to investigate how cancer propagates mutational effects through Protein-Protein Interaction networks and (3) machine learning algorithms and dynamic Bayesian network which predict clinical outcomes in [DREAM](http://dreamchallenges.org/) and [CAGI](https://genomeinterpretation.org/) challenges.
