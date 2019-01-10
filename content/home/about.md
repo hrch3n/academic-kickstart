@@ -30,7 +30,7 @@ weight = 5
  
 +++
 
-# Biography
+# About Me
 
 I received my M.S. in Electrical Engineering from the Texas A&M University this Auguest. I am currently looking for a Ph.D. position in Computational Biology. 
 
